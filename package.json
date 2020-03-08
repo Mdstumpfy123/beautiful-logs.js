@@ -1,0 +1,20 @@
+{
+  "name": "beautiful-logs.js",
+  "version": "0.10.1",
+  "description": "A simple logger with colors!",
+  "main": "logger.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "logger",
+    "log",
+    "console",
+    "logging"
+  ],
+  "author": "Mdstumpfy123",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
